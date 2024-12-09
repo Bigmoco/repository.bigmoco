@@ -161,7 +161,7 @@
     <extension point="xbmc.service" library="startup.py" start="startup" />
     
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">[COLOR red]Spanish-Open[/COLOR]Wizard</summary>
+        <summary lang="en">[COLOR red]Spanish-[/COLOR][COLOR limegreen]Open[/COLOR]Wizard</summary>
         <description lang="en">[COLOR red]THIS IS THE SPANISH VERSION!!![/COLOR][COLOR limegreen]Open[/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
