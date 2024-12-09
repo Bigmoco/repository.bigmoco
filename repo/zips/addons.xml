@@ -292,7 +292,7 @@
         </assets>
     </extension>
 </addon><addon id="repository.bigmoco" name="Bigmoco's Repository" version="1.0" provider-name="Bigmoco">
-    <extension point="xbmc.addon.repository" name="Example Repository">
+    <extension point="xbmc.addon.repository" name="Bigmoco's Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/Bigmoco/repository.bigmoco/master/repo/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/Bigmoco/repository.bigmoco/master/repo/zips/addons.xml.md5</checksum>
