@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="bigmoco" name="repository.bigmoco" version="1.0" provider-name="Bigmoco">
+<addon id="repository.bigmoco" name="Bigmoco's Repository" version="1.0" provider-name="Bigmoco">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/Bigmoco/repository.bigmoco/master/repo/zips/addons.xml</info>
@@ -8,7 +8,7 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>repository.bigmoco</summary>
+        <summary>Bigmoco's Repository</summary>
         <description>For my stuff</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
