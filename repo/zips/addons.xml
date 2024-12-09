@@ -145,7 +145,7 @@
             <fanart>fanart.png</fanart>
         </assets>
     </extension>
-</addon><addon id="plugin.program.spanish-openwizard" name="[COLOR red]Spanish-Open[/COLOR]Wizard" version="2.0.7" provider-name="drinfernoo, slamious">
+</addon><addon id="plugin.program.spanish-openwizard" name="[COLOR red]Spanish-[/COLOR][COLOR limegreen]Open[/COLOR]Wizard" version="2.0.7" provider-name="drinfernoo, slamious">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
@@ -162,7 +162,7 @@
     
     <extension point="xbmc.addon.metadata">
         <summary lang="en">[COLOR red]Spanish-Open[/COLOR]Wizard</summary>
-        <description lang="en">[COLOR red]Spanish-Open[/COLOR][COLOR red]THIS IS THE SPANISH VERSION!!![/COLOR] Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
+        <description lang="en">[COLOR red]THIS IS THE SPANISH VERSION!!![/COLOR][COLOR limegreen]Open[/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
         <source>https://www.github.com/a4k-openproject/plugin.program.openwizard/</source>
